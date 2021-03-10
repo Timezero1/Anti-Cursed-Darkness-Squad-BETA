@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cloudscraper": "^4.6.0",
+    "crypto-random-string": "^3.3.1",
+    "random-useragent": "^0.5.0"
+  }
+}
