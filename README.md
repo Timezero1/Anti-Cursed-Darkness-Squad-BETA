@@ -2,7 +2,7 @@
 Cloudflare JS Challenge Bypass<br>Cloudflare Captcha Bypass<br>Strong DDOS Layer 7<br>Private Tool<br><br>
 # Picture:
 <br>
-![alt text](https://raw.githubusercontent.com/Z3NTL3/Anti-Cursed-Darkness-Squad-BETA/main/home.png)
+![GitHub Logo](home.png)
 
 # Installation
 <code>sudo apt update</code><br>
